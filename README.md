@@ -6,7 +6,7 @@
 
  date    : 2024/08/30
 
- update : 2024/08/31
+ update : 2024/08/31  
 
 ***
 
@@ -16,7 +16,7 @@ Bun + Preact.js + Express , example
 ***
 ### build
 
-* build, dev-start, watch
+* build, dev-start
 
 ```
 bun run build
