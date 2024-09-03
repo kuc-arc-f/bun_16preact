@@ -30,5 +30,7 @@ https://ui.shadcn.com/docs/installation/vite
 ***
 ### blog 
 
+* https://knakatech-blog.pages.dev/posts/132
+
 ***
 
