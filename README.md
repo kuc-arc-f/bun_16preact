@@ -6,12 +6,17 @@
 
  date    : 2024/08/30
 
- update : 2024/08/31   
+ update : 2024/08/31 
 
 ***
 
 Bun + Preact.js + Express , example
 
+***
+### Example
+
+* tailwind : tailwindcss example
+* shadcn : shadcn ui , example
 
 ***
 ### build
